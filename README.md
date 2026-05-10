@@ -73,7 +73,7 @@ How to Run
 
 Clone the repo
 
-bashgit clone https://github.com/your-username/credit-card-fraud-eda.git
+bashgit clone (https://github.com/lehlogonoloshika05/Fraud-Detection/tree/main)
 cd credit-card-fraud-eda
 
 Install dependencies
@@ -83,7 +83,7 @@ bashpip install -r requirements.txt
 Download the dataset from Kaggle and place creditcard.csv in the project folder.
 Open the notebook
 
-bashjupyter notebook notebook.ipynb
+bashjupyter notebook EDA Project.ipynb
 
 Requirements
 pandas
