@@ -19,10 +19,9 @@ Seaborn
 
 
 Project Structure
-credit-card-fraud-eda/
-├── notebook.ipynb       # Full EDA notebook with code, outputs, and findings
-├── README.md
-└── requirements.txt
+Fraud-Detection/
+├── EDA Project.ipynb       # Full EDA notebook with code, outputs, and findings
+└── README.md
 
 Analysis Steps
 Step 1: Load and Inspect
@@ -74,7 +73,7 @@ How to Run
 Clone the repo
 
 bashgit clone (https://github.com/lehlogonoloshika05/Fraud-Detection/tree/main)
-cd credit-card-fraud-eda
+cd Fraud-Detection
 
 Install dependencies
 
